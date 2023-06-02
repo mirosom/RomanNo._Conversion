@@ -1,9 +1,14 @@
 # RomanNo.Conversion
 romanNumeral.py
+
 conversion of roman numerals
+
 author: miro holec
+
 date: Jun 2, 2023
+
 examples: CMXCVIII, XVI, MMXXIII, MCMLXXVII, MCMXLIV
+
 
 
 ## output
